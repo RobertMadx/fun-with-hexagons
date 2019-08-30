@@ -1,0 +1,22 @@
+{
+  "name": "fun-with-hexagons",
+  "version": "1.0.0",
+  "description": "Fun with Hexagons",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobertMadx/fun-with-hexagons.git"
+  },
+  "author": "Robert Madden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobertMadx/fun-with-hexagons/issues"
+  },
+  "homepage": "https://github.com/RobertMadx/fun-with-hexagons#readme",
+  "dependencies": {
+    "three": "^0.108.0"
+  }
+}
